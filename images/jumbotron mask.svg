@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="644px" viewBox="0 0 1440 644" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="48.2979178%" cy="49.1393826%" fx="48.2979178%" fy="49.1393826%" r="77.6971991%" gradientTransform="translate(0.482979,0.491394),scale(0.447222,1.000000),rotate(90.000000),translate(-0.482979,-0.491394)" id="radialGradient-1">
+            <stop stop-color="#71F6A1" offset="0%"></stop>
+            <stop stop-color="#47A277" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="107" width="1440" height="644"></rect>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, -107.000000)">
+        <mask id="mask-3" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <use id="Mask" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+    </g>
+</svg>

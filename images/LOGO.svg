@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="78px" viewBox="0 0 180 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-83.000000, -9.000000)">
+        <g id="Logo" transform="translate(53.000000, -2.000000)" fill="#9013FE">
+            <g id="Group">
+                <g id="LOGO">
+                    <text id="HEALTHY" font-family="Montserrat-Regular, Montserrat" font-size="36" font-weight="normal" line-spacing="51" letter-spacing="1.76625001">
+                        <tspan x="27.4081249" y="34">HEALTHY</tspan>
+                    </text>
+                    <text id="CART" font-family="Montserrat-Regular, Montserrat" font-size="36" font-weight="normal" line-spacing="51" letter-spacing="15.3900003">
+                        <tspan x="29.5299993" y="76">CART</tspan>
+                    </text>
+                    <g id="Cart" transform="translate(175.000000, 54.000000)" fill-rule="nonzero">
+                        <g id="Layer_1">
+                            <path d="M10.5,34 C8.474025,34 6.825,32.331875 6.825,30.28125 C6.825,28.230625 8.474025,26.5625 10.5,26.5625 C12.525975,26.5625 14.175,28.230625 14.175,30.28125 C14.175,32.331875 12.525975,34 10.5,34 Z M10.5,27.625 C9.052575,27.625 7.875,28.8165938 7.875,30.28125 C7.875,31.7459063 9.052575,32.9375 10.5,32.9375 C11.947425,32.9375 13.125,31.7459063 13.125,30.28125 C13.125,28.8165938 11.947425,27.625 10.5,27.625 Z" id="Shape" stroke="#9013FE"></path>
+                            <path d="M23.1,34 C21.074025,34 19.425,32.331875 19.425,30.28125 C19.425,28.230625 21.074025,26.5625 23.1,26.5625 C25.125975,26.5625 26.775,28.230625 26.775,30.28125 C26.775,32.331875 25.125975,34 23.1,34 Z M23.1,27.625 C21.652575,27.625 20.475,28.8165938 20.475,30.28125 C20.475,31.7459063 21.652575,32.9375 23.1,32.9375 C24.547425,32.9375 25.725,31.7459063 25.725,30.28125 C25.725,28.8165938 24.547425,27.625 23.1,27.625 Z" id="Shape" stroke="#9013FE"></path>
+                            <polygon id="Shape" stroke="#9013FE" points="13.65 29.75 19.95 29.75 19.95 30.8125 13.65 30.8125"></polygon>
+                            <polygon id="Shape" stroke="#9013FE" points="6.826575 30.3200313 4.76175 1.59375 0 1.59375 0 0.53125 5.73825 0.53125 7.873425 30.2424688"></polygon>
+                            <polygon id="Shape" stroke="#9013FE" points="6.861225 23.3739375 6.788775 22.3135625 28.97685 20.7474375 32.4135 5.84375 5.775 5.84375 5.775 4.78125 33.7365 4.78125 29.82315 21.7525625"></polygon>
+                            <polygon id="Shape" points="17.3523 5.480375 16.421475 2.65625 11.928525 2.65625 10.9977 5.480375 10.0023 5.144625 11.171475 1.59375 17.178525 1.59375 18.3477 5.144625"></polygon>
+                            <polygon id="Shape" points="28.9023 5.480375 27.446475 1.0625 19.570425 1.0625 17.070375 2.58028125 16.529625 1.66971875 19.279575 0 28.203525 0 29.8977 5.144625"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
